@@ -7,7 +7,7 @@
     "chart.js": "^1.1.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "dompurify": "0.8.5",
+    "dompurify": "2.0.3",
     "faker": "4.1.0",
     "flickity": "^2.1.2",
     "forever": "0.15.3",
